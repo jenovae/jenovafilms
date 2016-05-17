@@ -2,167 +2,57 @@
 "CodeKitInfo": "This is a CodeKit 2.x project configuration file. It is designed to sync project settings across multiple machines. MODIFYING THE CONTENTS OF THIS FILE IS A POOR LIFE DECISION. If you do so, you will likely cause CodeKit to crash. This file is not useful unless accompanied by the project that created it in CodeKit 2. This file is not backwards-compatible with CodeKit 1.x. For more information, see: http:\/\/incident57.com\/codekit",
 "creatorBuild": "19127",
 "files": {
-	"\/covers\/9things.jpg": {
+	"\/covers\/blanco.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 101323,
-		"inputAbbreviatedPath": "\/covers\/9things.jpg",
-		"outputAbbreviatedPath": "\/covers\/9things.jpg",
+		"initialSize": 380600,
+		"inputAbbreviatedPath": "\/covers\/blanco.jpg",
+		"outputAbbreviatedPath": "\/covers\/blanco.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/covers\/aimisnomer.jpg": {
+	"\/covers\/hielero.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 55793,
-		"inputAbbreviatedPath": "\/covers\/aimisnomer.jpg",
-		"outputAbbreviatedPath": "\/covers\/aimisnomer.jpg",
+		"initialSize": 230293,
+		"inputAbbreviatedPath": "\/covers\/hielero.jpg",
+		"outputAbbreviatedPath": "\/covers\/hielero.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/covers\/banner.png": {
+	"\/covers\/lore.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 15374,
-		"inputAbbreviatedPath": "\/covers\/banner.png",
-		"outputAbbreviatedPath": "\/covers\/banner.png",
+		"initialSize": 241127,
+		"inputAbbreviatedPath": "\/covers\/lore.png",
+		"outputAbbreviatedPath": "\/covers\/lore.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/covers\/brainhacks.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 79357,
-		"inputAbbreviatedPath": "\/covers\/brainhacks.jpg",
-		"outputAbbreviatedPath": "\/covers\/brainhacks.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/covers\/burningman.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 78002,
-		"inputAbbreviatedPath": "\/covers\/burningman.jpg",
-		"outputAbbreviatedPath": "\/covers\/burningman.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/covers\/cyborgs.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 62694,
-		"inputAbbreviatedPath": "\/covers\/cyborgs.jpg",
-		"outputAbbreviatedPath": "\/covers\/cyborgs.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/covers\/heyday.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 17379,
-		"inputAbbreviatedPath": "\/covers\/heyday.jpg",
-		"outputAbbreviatedPath": "\/covers\/heyday.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/covers\/instagram.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 84625,
-		"inputAbbreviatedPath": "\/covers\/instagram.jpg",
-		"outputAbbreviatedPath": "\/covers\/instagram.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/covers\/jrnl.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 26213,
-		"inputAbbreviatedPath": "\/covers\/jrnl.jpg",
-		"outputAbbreviatedPath": "\/covers\/jrnl.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/covers\/knot63.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 60336,
-		"inputAbbreviatedPath": "\/covers\/knot63.jpg",
-		"outputAbbreviatedPath": "\/covers\/knot63.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/covers\/knyfe.png": {
+	"\/covers\/monos.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 12983,
-		"inputAbbreviatedPath": "\/covers\/knyfe.png",
-		"outputAbbreviatedPath": "\/covers\/knyfe.png",
+		"initialSize": 394009,
+		"inputAbbreviatedPath": "\/covers\/monos.png",
+		"outputAbbreviatedPath": "\/covers\/monos.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/covers\/mdwa.jpg": {
+	"\/covers\/pott.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 33863,
-		"inputAbbreviatedPath": "\/covers\/mdwa.jpg",
-		"outputAbbreviatedPath": "\/covers\/mdwa.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/covers\/ska.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 37291,
-		"inputAbbreviatedPath": "\/covers\/ska.jpg",
-		"outputAbbreviatedPath": "\/covers\/ska.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/covers\/summerai.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 26634,
-		"inputAbbreviatedPath": "\/covers\/summerai.jpg",
-		"outputAbbreviatedPath": "\/covers\/summerai.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/covers\/tradesecret.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 93995,
-		"inputAbbreviatedPath": "\/covers\/tradesecret.jpg",
-		"outputAbbreviatedPath": "\/covers\/tradesecret.jpg",
+		"initialSize": 324634,
+		"inputAbbreviatedPath": "\/covers\/pott.jpg",
+		"outputAbbreviatedPath": "\/covers\/pott.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -216,28 +106,6 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/images\/goggle-l.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 4158,
-		"inputAbbreviatedPath": "\/images\/goggle-l.png",
-		"outputAbbreviatedPath": "\/images\/goggle-l.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/images\/goggle-r.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 4181,
-		"inputAbbreviatedPath": "\/images\/goggle-r.png",
-		"outputAbbreviatedPath": "\/images\/goggle-r.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
 	"\/images\/icons.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -267,50 +135,6 @@
 		"initialSize": 9816,
 		"inputAbbreviatedPath": "\/images\/jenn.png",
 		"outputAbbreviatedPath": "\/images\/jenn.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/images\/map.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 209500,
-		"inputAbbreviatedPath": "\/images\/map.png",
-		"outputAbbreviatedPath": "\/images\/map.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/images\/plane.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 851,
-		"inputAbbreviatedPath": "\/images\/plane.png",
-		"outputAbbreviatedPath": "\/images\/plane.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/images\/plane@2x.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 1812,
-		"inputAbbreviatedPath": "\/images\/plane@2x.png",
-		"outputAbbreviatedPath": "\/images\/plane@2x.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/images\/trail.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 40294,
-		"inputAbbreviatedPath": "\/images\/trail.png",
-		"outputAbbreviatedPath": "\/images\/trail.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -501,8 +325,8 @@
 	},
 "projectAttributes": {
 	"bowerAbbreviatedPath": "",
-	"displayValue": "static",
-	"displayValueWasSetByUser": 0,
+	"displayValue": "jenovafilms",
+	"displayValueWasSetByUser": 1,
 	"iconImageName": "pencil_darkGray"
 	},
 "projectSettings": {

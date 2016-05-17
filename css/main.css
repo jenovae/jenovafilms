@@ -344,11 +344,11 @@ body {
   height: 100%;
 }
 body {
-  background-color: #F06292;
-  background-image: -moz-linear-gradient(top, #C5003E 0%, #F06292 100%);
-  background-image: -webkit-linear-gradient(top, #C5003E 0%, #F06292 100%);
-  background-image: linear-gradient(to bottom, #C5003E 0%, #F06292 100%);
-  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#C5003E', endColorstr='#F06292', GradientType=0);
+  background-color: #F8E08E;
+  background-image: -moz-linear-gradient(top, #FCB813 0%, #F8E08E 100%);
+  background-image: -webkit-linear-gradient(top, #FCB813 0%, #F8E08E 100%);
+  background-image: linear-gradient(to bottom, #FCB813 0%, #F8E08E 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#FCB813', endColorstr='#F8E08E', GradientType=0);
   background-repeat: no-repeat;
   background-position: fixed;
   padding: 0px;
