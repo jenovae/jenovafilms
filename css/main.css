@@ -292,9 +292,9 @@ header {
   overflow: hidden;
 }
 header .avatar {
-  width: 290px;
-  height: 270px;
-  background: url(../images/beardedboy.png) 0px 0px no-repeat transparent;
+  width: 523px;
+  height: 130px;
+  background: url(../images/jenn.png) 0px 0px no-repeat transparent;
   position: relative;
   margin: 0px auto 0px auto;
   z-index: 100;
