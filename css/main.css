@@ -296,7 +296,7 @@ header .avatar {
   height: 130px;
   background: url(../images/jenn.png) 0px 0px no-repeat transparent;
   position: relative;
-  margin: 0px auto 0px auto;
+  margin: 215px auto 0px auto;
   z-index: 100;
 }
 header #goggleLeft,
@@ -344,11 +344,11 @@ body {
   height: 100%;
 }
 body {
-  background-color: #F16748;
-  background-image: -moz-linear-gradient(top, #F14848 0%, #F16748 100%);
-  background-image: -webkit-linear-gradient(top, #F14848 0%, #F16748 100%);
-  background-image: linear-gradient(to bottom, #F14848 0%, #F16748 100%);
-  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#F14848', endColorstr='#F16748', GradientType=0);
+  background-color: #F06292;
+  background-image: -moz-linear-gradient(top, #C5003E 0%, #F06292 100%);
+  background-image: -webkit-linear-gradient(top, #C5003E 0%, #F06292 100%);
+  background-image: linear-gradient(to bottom, #C5003E 0%, #F06292 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#C5003E', endColorstr='#F06292', GradientType=0);
   background-repeat: no-repeat;
   background-position: fixed;
   padding: 0px;
