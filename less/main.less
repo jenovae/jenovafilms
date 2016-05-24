@@ -16,7 +16,7 @@ html, body{
 
 
 body {
-    background: url(../images/tri.svg) #eee;
+    background: url(../images/tri.svg) transparent;
     background-size: cover;
     background-repeat: no-repeat;
     background-position: fixed;
@@ -47,7 +47,7 @@ h3 {
 .white {color: white;}
 
 header {
-    height: 100%;
+    height: 85%;
     h1, h2 {
         text-transform: uppercase;
         text-align: center;
@@ -76,6 +76,9 @@ a.blocklink {
 }
 .columns2 article {
     width: (@full-width - 24) / 2;
+}
+.columns article  {
+	width: @full-width; 
 }
 
 @full-width: 1200px;

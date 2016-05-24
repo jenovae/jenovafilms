@@ -344,7 +344,7 @@ body {
   height: 100%;
 }
 body {
-  background: url(../images/tri.svg) #eee;
+  background: url(../images/f-jen.png) #777;
   background-size: cover;
   background-repeat: no-repeat;
   background-position: fixed;
@@ -372,7 +372,7 @@ h3 {
   color: white;
 }
 header {
-  height: 100%;
+  height: 85%;
 }
 header h1,
 header h2 {
@@ -391,9 +391,16 @@ header h1 .first {
 header h2 {
   margin: 10px 0px;
   letter-spacing: 1.5px;
-  color: #5A372E;
+  color: #000;
   font-size: 1.2rem;
 }
+header h2 .first {
+  font-weight: 300;
+}
+footer h2 .first {
+  font-weight: 600;
+}
+
 a.blocklink {
   text-decoration: none;
   color: #333;
@@ -403,6 +410,9 @@ a.blocklink {
 }
 .columns2 article {
   width: 588px;
+}
+.columns article {
+  width: 1200px;
 }
 section {
   width: 1200px;
